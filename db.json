@@ -5,31 +5,71 @@
 			"pos": "1",
 			"nome": "João1",
 			"foto": "https://lab.tatenda.com.br/wp-content/uploads/2020/07/pin.png",
-			"pontos": "320"
+			"pontos": "320",
+			"cidade": "Salvador"
 		},
 		{
 			"pos": "2",
-			"nome": "João2",
+			"nome": "Maria2",
 			"foto": "https://lab.tatenda.com.br/wp-content/uploads/2020/07/pin.png",
-			"pontos": "310"
+			"pontos": "310",
+			"cidade": "Aracaju"
 		},
 		{
 			"pos": "3",
 			"nome": "João3",
 			"foto": "https://lab.tatenda.com.br/wp-content/uploads/2020/07/pin.png",
-			"pontos": "300"
+			"pontos": "300",
+			"cidade": "Salvador"			
 		},
 		{
 			"pos": "4",
 			"nome": "João4",
 			"foto": "https://lab.tatenda.com.br/wp-content/uploads/2020/07/pin.png",
-			"pontos": "290"
+			"pontos": "290",
+			"cidade": "Salvador"			
 		},
 		{
 			"pos": "5",
 			"nome": "João10",
 			"foto": "https://lab.tatenda.com.br/wp-content/uploads/2020/07/pin.png",
-			"pontos": "230"
+			"pontos": "230",
+			"cidade": "Salvador"
+		},
+		{
+			"pos": "1",
+			"nome": "MariaAAA1",
+			"foto": "https://lab.tatenda.com.br/wp-content/uploads/2020/07/pin.png",
+			"pontos": "320",
+			"cidade": "Aracaju"
+		},
+		{
+			"pos": "2",
+			"nome": "Mario2322",
+			"foto": "https://lab.tatenda.com.br/wp-content/uploads/2020/07/pin.png",
+			"pontos": "330",
+			"cidade": "Aracaju"
+		},
+		{
+			"pos": "3",
+			"nome": "João3",
+			"foto": "https://lab.tatenda.com.br/wp-content/uploads/2020/07/pin.png",
+			"pontos": "300",
+			"cidade": "Salvador"			
+		},
+		{
+			"pos": "4",
+			"nome": "Maria344",
+			"foto": "https://lab.tatenda.com.br/wp-content/uploads/2020/07/pin.png",
+			"pontos": "290",
+			"cidade": "Aracaju"			
+		},
+		{
+			"pos": "5",
+			"nome": "João10",
+			"foto": "https://lab.tatenda.com.br/wp-content/uploads/2020/07/pin.png",
+			"pontos": "230",
+			"cidade": "Salvador"
 		}
 	],
 	"lugar":
