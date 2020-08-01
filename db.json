@@ -1,441 +1,84 @@
 {
-    "creator": "WPGoogleMapsPro",
-    "version": "8.0.33",
-    "json_version": "1.01",
-    "maps": [
-        {
-            "id": "2",
-            "map_title": "artdoor.kml",
-            "map_width": "100",
-            "map_height": "100",
-            "map_start_lat": "-12.899066",
-            "map_start_lng": "-38.448222",
-            "map_start_location": "-12.899065964751893,-38.44822232812499",
-            "map_start_zoom": "11",
-            "default_marker": "{\"url\":\"\\\/\\\/lab.tatenda.com.br\\\/wp-content\\\/uploads\\\/2020\\\/07\\\/pin-2.png\",\"retina\":0}",
-            "type": "1",
-            "alignment": "2",
-            "directions_enabled": "0",
-            "styling_enabled": "0",
-            "styling_json": "",
-            "active": "0",
-            "kml": "",
-            "bicycle": "2",
-            "traffic": "2",
-            "dbox": "4",
-            "dbox_width": "100",
-            "listmarkers": "0",
-            "listmarkers_advanced": "0",
-            "filterbycat": "0",
-            "ugm_enabled": "0",
-            "ugm_category_enabled": "0",
-            "fusion": "",
-            "map_width_type": "\\%",
-            "map_height_type": "\\%",
-            "mass_marker_support": "1",
-            "ugm_access": "0",
-            "order_markers_by": "2",
-            "order_markers_choice": "1",
-            "show_user_location": "2",
-            "default_to": "",
-            "other_settings": "a:46:{s:19:\"store_locator_style\";s:6:\"legacy\";s:33:\"wpgmza_store_locator_radius_style\";s:6:\"legacy\";s:20:\"directions_box_style\";s:6:\"modern\";s:27:\"show_distance_from_location\";i:0;s:12:\"map_max_zoom\";s:1:\"5\";s:12:\"map_min_zoom\";s:2:\"21\";s:15:\"sl_stroke_color\";s:0:\"\";s:17:\"sl_stroke_opacity\";s:0:\"\";s:13:\"sl_fill_color\";s:0:\"\";s:15:\"sl_fill_opacity\";s:0:\"\";s:40:\"jump_to_nearest_marker_on_initialization\";i:0;s:35:\"automatically_pan_to_users_location\";i:0;s:34:\"override_users_location_zoom_level\";i:0;s:15:\"click_open_link\";i:2;s:22:\"hide_point_of_interest\";i:2;s:26:\"fit_maps_bounds_to_markers\";i:2;s:42:\"fit_maps_bounds_to_markers_after_filtering\";i:1;s:17:\"wpgmza_auto_night\";i:0;s:15:\"transport_layer\";i:2;s:14:\"polygon_labels\";b:0;s:21:\"enable_marker_ratings\";b:0;s:16:\"iw_primary_color\";s:6:\"2A3744\";s:15:\"iw_accent_color\";s:6:\"252F3A\";s:13:\"iw_text_color\";s:6:\"FFFFFF\";s:14:\"wpgmza_iw_type\";s:1:\"0\";s:15:\"list_markers_by\";s:1:\"0\";s:11:\"push_in_map\";s:0:\"\";s:21:\"push_in_map_placement\";s:1:\"9\";s:24:\"wpgmza_push_in_map_width\";s:0:\"\";s:25:\"wpgmza_push_in_map_height\";s:0:\"\";s:17:\"wpgmza_theme_data\";s:244:\"[\"visibility\", \"invert_lightness\", \"color\", \"weight\", \"hue\", \"saturation\", \"lightness\", \"gamma\", {\"featureType\": \"administrative.locality\", \"stylers\": [{\"visibility\": \"on\"}]}, {\"featureType\": \"poi.business\", \"stylers\": [{\"visibility\": \"off\"}]}]\";s:24:\"upload_default_ul_marker\";s:0:\"\";s:24:\"upload_default_sl_marker\";s:0:\"\";s:22:\"wpgmza_dbox_width_type\";s:1:\"%\";s:12:\"default_from\";s:0:\"\";s:20:\"directions_behaviour\";s:7:\"default\";s:27:\"force_google_directions_app\";b:0;s:28:\"directions_route_origin_icon\";s:86:\"https:\/\/lab.tatenda.com.br\/wp-content\/plugins\/wp-google-maps\/images\/spotlight-poi2.png\";s:6:\"retina\";b:0;s:33:\"directions_route_destination_icon\";s:86:\"https:\/\/lab.tatenda.com.br\/wp-content\/plugins\/wp-google-maps\/images\/spotlight-poi2.png\";s:29:\"directions_route_stroke_color\";s:7:\"#4f8df5\";s:30:\"directions_route_stroke_weight\";s:1:\"4\";s:31:\"directions_route_stroke_opacity\";s:3:\"0.8\";s:41:\"enable_advanced_custom_fields_integration\";b:0;s:38:\"enable_toolset_woocommerce_integration\";b:0;s:19:\"shortcodeAttributes\";a:1:{s:2:\"id\";s:1:\"2\";}}",
-            "filter_custom_field_names": [
-                "Autor",
-                "Linguagem"
-            ]
-        }
-    ],
-    "categories": [],
-    "customfields": [
-        {
-            "id": "4",
-            "name": "Autor",
-            "icon": "",
-            "attributes": "{\"\":\"\"}",
-            "widget_type": "dropdown",
-            "display_in_infowindows": "1",
-            "display_in_marker_listings": "1",
-            "stack_order": "0"
-        },
-        {
-            "id": "5",
-            "name": "Linguagem",
-            "icon": "",
-            "attributes": "{\"\":\"\"}",
-            "widget_type": "dropdown",
-            "display_in_infowindows": "1",
-            "display_in_marker_listings": "1",
-            "stack_order": "1"
-        }
-    ],
-    "markers": [
-        {
-            "id": "9115",
-            "map_id": "2",
-            "address": "-12.981193,-38.504828",
-            "description": "",
-            "pic": "",
-            "link": "",
-            "icon": "",
-            "lat": "-12.981193",
-            "lng": "-38.504828",
-            "anim": "0",
-            "title": "",
-            "infoopen": "0",
-            "category": "",
-            "approved": "1",
-            "retina": "0",
-            "type": "0",
-            "did": "",
-            "sticky": "0",
-            "other_data": "a:0:{}",
-            "custom_fields_data": [
-                {
-                    "id": 4,
-                    "name": "Autor",
-                    "value": "Autor 01"
-                },
-                {
-                    "id": 5,
-                    "name": "Linguagem",
-                    "value": "Literatura"
-                }
-            ]
-        },
-        {
-            "id": "9116",
-            "map_id": "2",
-            "address": "-12.984392,-38.507700",
-            "description": "",
-            "pic": "",
-            "link": "",
-            "icon": "",
-            "lat": "-12.984392",
-            "lng": "-38.507700",
-            "anim": "0",
-            "title": "",
-            "infoopen": "0",
-            "category": "",
-            "approved": "1",
-            "retina": "0",
-            "type": "0",
-            "did": "",
-            "sticky": "0",
-            "other_data": "a:0:{}",
-            "custom_fields_data": [
-                {
-                    "id": 4,
-                    "name": "Autor",
-                    "value": "Autor 02"
-                },
-                {
-                    "id": 5,
-                    "name": "Linguagem",
-                    "value": "Artes visuais"
-                }
-            ]
-        },
-        {
-            "id": "9117",
-            "map_id": "2",
-            "address": "-12.982450,-38.503693",
-            "description": "",
-            "pic": "",
-            "link": "",
-            "icon": "",
-            "lat": "-12.982450",
-            "lng": "-38.503693",
-            "anim": "0",
-            "title": "",
-            "infoopen": "0",
-            "category": "",
-            "approved": "1",
-            "retina": "0",
-            "type": "0",
-            "did": "",
-            "sticky": "0",
-            "other_data": "a:0:{}",
-            "custom_fields_data": [
-                {
-                    "id": 4,
-                    "name": "Autor",
-                    "value": "Autor 03"
-                },
-                {
-                    "id": 5,
-                    "name": "Linguagem",
-                    "value": "Literatura"
-                }
-            ]
-        },
-        {
-            "id": "9340",
-            "map_id": "2",
-            "address": "-12.842593,-38.469260",
-            "description": "",
-            "pic": "",
-            "link": "",
-            "icon": "",
-            "lat": "-12.842593",
-            "lng": "-38.469260",
-            "anim": "0",
-            "title": "",
-            "infoopen": "0",
-            "category": "",
-            "approved": "1",
-            "retina": "0",
-            "type": "0",
-            "did": "",
-            "sticky": "0",
-            "other_data": "a:0:{}",
-            "custom_fields_data": [
-                {
-                    "id": 4,
-                    "name": "Autor",
-                    "value": "Autor 23"
-                },
-                {
-                    "id": 5,
-                    "name": "Linguagem",
-                    "value": "Literatura"
-                }
-            ]
-        },
-        {
-            "id": "9341",
-            "map_id": "2",
-            "address": "-12.971796,-38.515343",
-            "description": "",
-            "pic": "",
-            "link": "",
-            "icon": "",
-            "lat": "-12.971796",
-            "lng": "-38.515343",
-            "anim": "0",
-            "title": "",
-            "infoopen": "0",
-            "category": "",
-            "approved": "1",
-            "retina": "0",
-            "type": "0",
-            "did": "",
-            "sticky": "0",
-            "other_data": "a:0:{}",
-            "custom_fields_data": [
-                {
-                    "id": 4,
-                    "name": "Autor",
-                    "value": "Autor 24"
-                },
-                {
-                    "id": 5,
-                    "name": "Linguagem",
-                    "value": "Artes visuais"
-                }
-            ]
-        },
-        {
-            "id": "9342",
-            "map_id": "2",
-            "address": "-12.952927,-38.503784",
-            "description": "",
-            "pic": "",
-            "link": "",
-            "icon": "",
-            "lat": "-12.952927",
-            "lng": "-38.503784",
-            "anim": "0",
-            "title": "",
-            "infoopen": "0",
-            "category": "",
-            "approved": "1",
-            "retina": "0",
-            "type": "0",
-            "did": "",
-            "sticky": "0",
-            "other_data": "a:0:{}",
-            "custom_fields_data": [
-                {
-                    "id": 4,
-                    "name": "Autor",
-                    "value": "Autor 25"
-                },
-                {
-                    "id": 5,
-                    "name": "Linguagem",
-                    "value": "Literatura"
-                }
-            ]
-        },
-        {
-            "id": "9343",
-            "map_id": "2",
-            "address": "-12.992468,-38.521828",
-            "description": "",
-            "pic": "",
-            "link": "",
-            "icon": "",
-            "lat": "-12.992468",
-            "lng": "-38.521828",
-            "anim": "0",
-            "title": "",
-            "infoopen": "0",
-            "category": "",
-            "approved": "1",
-            "retina": "0",
-            "type": "0",
-            "did": "",
-            "sticky": "0",
-            "other_data": "a:0:{}",
-            "custom_fields_data": [
-                {
-                    "id": 4,
-                    "name": "Autor",
-                    "value": "Autor 26"
-                },
-                {
-                    "id": 5,
-                    "name": "Linguagem",
-                    "value": "Artes visuais"
-                }
-            ]
-        },
-        {
-            "id": "9344",
-            "map_id": "2",
-            "address": "-12.985730,-38.521248",
-            "description": "",
-            "pic": "",
-            "link": "",
-            "icon": "",
-            "lat": "-12.985730",
-            "lng": "-38.521248",
-            "anim": "0",
-            "title": "",
-            "infoopen": "0",
-            "category": "",
-            "approved": "1",
-            "retina": "0",
-            "type": "0",
-            "did": "",
-            "sticky": "0",
-            "other_data": "a:0:{}",
-            "custom_fields_data": [
-                {
-                    "id": 4,
-                    "name": "Autor",
-                    "value": "Autor 27"
-                },
-                {
-                    "id": 5,
-                    "name": "Linguagem",
-                    "value": "Literatura"
-                }
-            ]
-        },
-        {
-            "id": "9345",
-            "map_id": "2",
-            "address": "-12.989257,-38.519692",
-            "description": "",
-            "pic": "",
-            "link": "",
-            "icon": "",
-            "lat": "-12.989257",
-            "lng": "-38.519692",
-            "anim": "0",
-            "title": "",
-            "infoopen": "0",
-            "category": "",
-            "approved": "1",
-            "retina": "0",
-            "type": "0",
-            "did": "",
-            "sticky": "0",
-            "other_data": "a:0:{}",
-            "custom_fields_data": [
-                {
-                    "id": 4,
-                    "name": "Autor",
-                    "value": "Autor 28"
-                },
-                {
-                    "id": 5,
-                    "name": "Linguagem",
-                    "value": "Artes visuais"
-                }
-            ]
-        },
-        {
-            "id": "9346",
-            "map_id": "2",
-            "address": "-12.993722,-38.526051",
-            "description": "",
-            "pic": "",
-            "link": "",
-            "icon": "",
-            "lat": "-12.993722",
-            "lng": "-38.526051",
-            "anim": "0",
-            "title": "",
-            "infoopen": "0",
-            "category": "",
-            "approved": "1",
-            "retina": "0",
-            "type": "0",
-            "did": "",
-            "sticky": "0",
-            "other_data": "a:0:{}",
-            "custom_fields_data": [
-                {
-                    "id": 4,
-                    "name": "Autor",
-                    "value": "Autor 29"
-                },
-                {
-                    "id": 5,
-                    "name": "Linguagem",
-                    "value": "Literatura"
-                }
-            ]
-        },
-        {
-            "id": "9347",
-            "map_id": "2",
-            "address": "-12.992612,-38.525452",
-            "description": "",
-            "pic": "",
-            "link": "",
-            "icon": "",
-            "lat": "-12.992612",
-            "lng": "-38.525452",
-            "anim": "0",
-            "title": "",
-            "infoopen": "0",
-            "category": "",
-            "approved": "1",
-            "retina": "0",
-            "type": "0",
-            "did": "",
-            "sticky": "0",
-            "other_data": "a:0:{}",
-            "custom_fields_data": [
-                {
-                    "id": 4,
-                    "name": "Autor",
-                    "value": "Autor 30"
-                },
-                {
-                    "id": 5,
-                    "name": "Linguagem",
-                    "value": "Artes visuais"
-                }
-            ]
-        }
-    ],
-    "circles": [],
-    "polygons": [],
-    "polylines": [],
-    "rectangles": [],
-    "datasets": []
+	"ranking":
+	[
+		{
+			"pos": "1",
+			"nome": "João1",
+			"foto": "https://lab.tatenda.com.br/wp-content/uploads/2020/07/pin.png",
+			"pontos": "320",
+			"cidade": "Salvador"
+		},
+		{
+			"pos": "2",
+			"nome": "Maria2",
+			"foto": "https://lab.tatenda.com.br/wp-content/uploads/2020/07/pin.png",
+			"pontos": "310",
+			"cidade": "Aracaju"
+		},
+		{
+			"pos": "3",
+			"nome": "João3",
+			"foto": "https://lab.tatenda.com.br/wp-content/uploads/2020/07/pin.png",
+			"pontos": "300",
+			"cidade": "Salvador"			
+		},
+		{
+			"pos": "4",
+			"nome": "João4",
+			"foto": "https://lab.tatenda.com.br/wp-content/uploads/2020/07/pin.png",
+			"pontos": "290",
+			"cidade": "Salvador"			
+		},
+		{
+			"pos": "5",
+			"nome": "João10",
+			"foto": "https://lab.tatenda.com.br/wp-content/uploads/2020/07/pin.png",
+			"pontos": "230",
+			"cidade": "Salvador"
+		},
+		{
+			"pos": "1",
+			"nome": "MariaAAA1",
+			"foto": "https://lab.tatenda.com.br/wp-content/uploads/2020/07/pin.png",
+			"pontos": "320",
+			"cidade": "Aracaju"
+		},
+		{
+			"pos": "2",
+			"nome": "Mario2322",
+			"foto": "https://lab.tatenda.com.br/wp-content/uploads/2020/07/pin.png",
+			"pontos": "330",
+			"cidade": "Aracaju"
+		},
+		{
+			"pos": "3",
+			"nome": "João3",
+			"foto": "https://lab.tatenda.com.br/wp-content/uploads/2020/07/pin.png",
+			"pontos": "300",
+			"cidade": "Salvador"			
+		},
+		{
+			"pos": "4",
+			"nome": "Maria344",
+			"foto": "https://lab.tatenda.com.br/wp-content/uploads/2020/07/pin.png",
+			"pontos": "290",
+			"cidade": "Aracaju"			
+		},
+		{
+			"pos": "5",
+			"nome": "João10",
+			"foto": "https://lab.tatenda.com.br/wp-content/uploads/2020/07/pin.png",
+			"pontos": "230",
+			"cidade": "Salvador"
+		}
+	],
+	"lugar":
+	[
+		{
+			"cidade": "Salvador"
+		},
+		{
+			"cidade": "Aracaju"
+		}
+	]
 }
