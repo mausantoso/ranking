@@ -1,0 +1,32 @@
+[
+	{
+		"pos": "1",
+		"nome": "João1",
+		"foto": "https://lab.tatenda.com.br/wp-content/uploads/2020/07/pin.png",
+		"pontos": "320"
+	},
+	{
+		"pos": "2",
+		"nome": "João2",
+		"foto": "https://lab.tatenda.com.br/wp-content/uploads/2020/07/pin.png",
+		"pontos": "310"
+	},
+	{
+		"pos": "3",
+		"nome": "João3",
+		"foto": "https://lab.tatenda.com.br/wp-content/uploads/2020/07/pin.png",
+		"pontos": "300"
+	},
+	{
+		"pos": "4",
+		"nome": "João4",
+		"foto": "https://lab.tatenda.com.br/wp-content/uploads/2020/07/pin.png",
+		"pontos": "290"
+	},
+	{
+		"pos": "5",
+		"nome": "João10",
+		"foto": "https://lab.tatenda.com.br/wp-content/uploads/2020/07/pin.png",
+		"pontos": "230"
+	}
+]
